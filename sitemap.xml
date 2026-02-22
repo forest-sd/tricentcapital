@@ -17,4 +17,34 @@
   <url><loc>https://www.tricentcapital.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.tricentcapital.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.tricentcapital.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://www.tricentcapital.com/blog/diversification-strategies-for-modern-portfolios/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tricentcapital.com/blog/esg-investing-performance-and-ethical-considerations/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tricentcapital.com/blog/real-estate-investment-fundamentals-and-market-analysis/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tricentcapital.com/blog/retirement-planning-strategies-for-different-life-stages/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tricentcapital.com/blog/understanding-risk-tolerance-in-investment-planning/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
