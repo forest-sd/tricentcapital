@@ -8,10 +8,29 @@
     <lastBuildDate>2026-02-21</lastBuildDate>
     <atom:link href="https://www.tricentcapital.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Building Organizational Resilience in Uncertain Times</title>
+      <link>https://www.tricentcapital.com/blog/building-organizational-resilience-in-uncertain-times/</link>
+      <description>Strategies for creating adaptive organizations that thrive through economic volatility and market disruption.</description>
+    </item>
+    <item>
+      <title>Data-Driven Decision Making for Small Businesses</title>
+      <link>https://www.tricentcapital.com/blog/data-driven-decision-making-for-small-businesses/</link>
+      <description>How small businesses can leverage analytics and data to compete effectively against larger organizations.</description>
+    </item>
+    <item>
       <title>Strategic Thinking in an Age of Uncertainty</title>
       <link>https://www.tricentcapital.com/blog/strategic-thinking-in-an-age-of-uncertainty/</link>
       <description>Strategic Thinking in an Age of Uncertainty — an in-depth exploration with evidence-based insights.</description>
-      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Sustainable Business Practices That Drive Profitability</title>
+      <link>https://www.tricentcapital.com/blog/sustainable-business-practices-that-drive-profitability/</link>
+      <description>How environmental and social responsibility initiatives create measurable competitive advantages.</description>
+    </item>
+    <item>
+      <title>The Future of Remote Work and Distributed Teams</title>
+      <link>https://www.tricentcapital.com/blog/the-future-of-remote-work-and-distributed-teams/</link>
+      <description>Research on productivity, collaboration, and culture in remote-first organizations.</description>
     </item>
   </channel>
 </rss>
