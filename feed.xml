@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tricent Capital</title>
+    <link>https://tricentcapital.pages.dev</link>
+    <description>Latest posts from Tricent Capital</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://tricentcapital.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Strategic Thinking in an Age of Uncertainty</title>
+      <link>https://tricentcapital.pages.dev/blog/strategic-thinking-in-an-age-of-uncertainty/</link>
+      <description>Strategic Thinking in an Age of Uncertainty — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
