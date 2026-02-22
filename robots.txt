@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tricentcapital.pages.dev/sitemap.xml
+Sitemap: https://www.tricentcapital.com/sitemap.xml
